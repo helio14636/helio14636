@@ -21,7 +21,7 @@ Desenvolvedor Full-Stack e integrador de sistemas com foco em **Arquitetura de S
 ### 🖧 Infraestrutura, DevOps & Hardware
 - **Containerização & Servidores:** Administração de VPS (Linux/Windows), **Docker**, **Docker Compose**, gerenciamento de stacks via **Easypanel** e virtualização com **VMware**.
 - **Hardware & Performance Tuning:** Montagem, manutenção e otimização avançada de workstations e servidores (arquiteturas AMD Ryzen com ajuste fino de PBO/overclock e plataformas servidor Intel Xeon / X99).
-- **Smart Home, IoT & Redes:** Infraestrutura de redes estruturadas, acesso remoto seguro (**RustDesk**), segurança eletrônica e automação residencial/comercial (integração de relés inteligentes, fechaduras digitais e dimensionamento de quadros de energia).
+- **Smart Home, IoT & Redes:** Infraestrutura de redes estruturadas, acesso remoto seguro (**RustDesk**), segurança eletrônica e automação residencial/comercial (integração de relés inteligentes, fechaduras digitais e dimensionamento de quadros de rede).
 
 ---
 
@@ -31,7 +31,6 @@ Desenvolvedor Full-Stack e integrador de sistemas com foco em **Arquitetura de S
 - **Arquitetura de Atendimento B2B & Vendas Omnichannel com IA:** Ecossistema em produção integrando **n8n + WAHA + Gemini AI + Supabase + Redis**. Realiza captação e qualificação de leads via WhatsApp e Instagram, interpretação automática de áudios e comprovantes em imagem, geração de cobranças Pix e encaminhamento inteligente ao setor comercial.
 - **PHB — Painel / Arena Prime (`painel-Prime`):** Sistema de gerenciamento para complexos esportivos, academias e quadras de esportes, com controle de fluxo operacional, agendamentos e painéis analíticos em tempo real.
 - **Caramuru Solutions Hub:** Plataforma corporativa multi-serviços e imobiliária com catálogo dinâmico, painel administrativo centralizado e módulo de controle financeiro.
-- **Engenharia de Hardware Customizado (Digital Pinball Arcade):** Projeto e construção de gabinete de Pinball Digital em escala real (estrutura em MDF, hardware dedicado para múltiplos monitores QHD/4K e integração com *Visual Pinball X* e *Future Pinball*).
 
 ---
 
