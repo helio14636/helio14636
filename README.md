@@ -27,9 +27,9 @@ Desenvolvedor Full-Stack e integrador de sistemas com foco em **Arquitetura de S
 
 ## 🚀 Estudos de Caso & Projetos em Produção
 
-- **Plataforma do Peregrino (Ecossistema EAD & ERP Educacional SaaS):** Plataforma completa para gestão de unidades de ensino presenciais e online. Engloba portal do aluno, landing pages de alta conversão (`Lp-Enem-1`), rankings dinâmicos de simulados, fluxos de correção de redação, motor financeiro com cálculo automatizado de taxas e regras contratuais, além de pipeline próprio para produção de apostilas e simulados.
+- **Plataforma do Peregrino (Ecossistema EAD & ERP Educacional SaaS):** Plataforma completa para gestão de unidades de ensino presenciais e online. Engloba portal do aluno, landing pages de alta conversão , rankings dinâmicos de simulados, fluxos de correção de redação, motor financeiro com cálculo automatizado de taxas e regras contratuais, além de pipeline próprio para produção de apostilas e simulados com correcão automática.
 - **Arquitetura de Atendimento B2B & Vendas Omnichannel com IA:** Ecossistema em produção integrando **n8n + WAHA + Gemini AI + Supabase + Redis**. Realiza captação e qualificação de leads via WhatsApp e Instagram, interpretação automática de áudios e comprovantes em imagem, geração de cobranças Pix e encaminhamento inteligente ao setor comercial.
-- **PHB — Painel / Arena Prime (`painel-Prime`):** Sistema de gerenciamento para complexos esportivos, academias e quadras de esportes, com controle de fluxo operacional, agendamentos e painéis analíticos em tempo real.
+- **PHB — Painel / Arena Prime :** Sistema de gerenciamento para complexos esportivos, academias e quadras de esportes, com controle de fluxo operacional, agendamentos e painéis analíticos em tempo real.
 - **Caramuru Solutions Hub:** Plataforma corporativa multi-serviços e imobiliária com catálogo dinâmico, painel administrativo centralizado e módulo de controle financeiro.
 
 ---
