@@ -52,4 +52,4 @@ Desenvolvedor Full-Stack e integrador de sistemas com foco em **Arquitetura de S
 - **Empresa:** [@primetecnologia0](https://instagram.com/primetecnologia0) — *Prime Tecnologia*
 - **GitHub:** [github.com/helio14636](https://github.com/helio14636)
 - **E-mail:** [heliomachado045@gmail.com](mailto:heliomachado045@gmail.com)
-- **Localização:** Angra dos Reis / Mangaratiba — Rio de Janeiro, Brasil
+- **Localização:** Mangaratiba — Rio de Janeiro, Brasil
