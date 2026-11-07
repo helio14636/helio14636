@@ -1,7 +1,7 @@
 # Hélio Gabriel de Souza Machado
 ### Founder & Lead Systems Integrator @ Prime Tecnologia | Análise e Desenvolvimento de Sistemas (UNASP)
 
-Desenvolvedor Full-Stack e integrador de sistemas com foco em **Arquitetura de Software**, **automação de processos críticos com Inteligência Artificial** e **infraestrutura física/cloud**. Uno a base sólida de hardware, servidores bare-metal e redes com engenharia de software moderna para projetar ecossistemas ponta a ponta — do quadro elétrico, cabeamento estruturado e servidor local à aplicação web em nuvem e agentes autônomos em produção.
+Desenvolvedor Full-Stack e integrador de sistemas com foco em **Arquitetura de Software**, **automação de processos críticos com Inteligência Artificial** e **infraestrutura física/cloud**. Uno a base sólida de hardware, servidores bare-metal e redes com engenharia de software moderna para projetar ecossistemas ponta a ponta — do quadro de rede, cabeamento estruturado e servidor local à aplicação web em nuvem e agentes autônomos em produção.
 
 ---
 
