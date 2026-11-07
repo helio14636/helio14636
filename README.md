@@ -21,7 +21,7 @@ Desenvolvedor Full-Stack e integrador de sistemas com foco em **Arquitetura de S
 ### 🖧 Infraestrutura, DevOps & Hardware
 - **Containerização & Servidores:** Administração de VPS (Linux/Windows), **Docker**, **Docker Compose**, gerenciamento de stacks via **Easypanel** e virtualização com **VMware**.
 - **Hardware & Performance Tuning:** Montagem, manutenção e otimização avançada de workstations e servidores (arquiteturas AMD Ryzen com ajuste fino de PBO/overclock e plataformas servidor Intel Xeon / X99).
-- **Smart Home, IoT & Redes:** Infraestrutura de redes estruturadas, acesso remoto seguro (**RustDesk**), segurança eletrônica e automação residencial/comercial (integração de relés inteligentes, fechaduras digitais e dimensionamento de quadros de rede).
+- **Smart Home, IoT & Redes:** Infraestrutura de redes estruturadas, acesso remoto seguro , segurança eletrônica e automação residencial/comercial (integração de relés inteligentes, fechaduras digitais e dimensionamento de quadros de rede).
 
 ---
 
